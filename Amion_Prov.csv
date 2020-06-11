@@ -1,0 +1,191 @@
+First_Name,Last_Name,Full_Name,Unique_ID,NPI
+ Tinsley,Coble, Tinsley Coble,1738,1003032350
+ Rick,Kadera, Rick Kadera,248,1003867284
+ Rob,Hansen, Rob Hansen,1408,1003979055
+ Anna,Stein, Anna Stein,1588,1013099647
+ Alex,Chung, Alex Chung,1365,1013955913
+ Brandon,Ong, Brandon Ong,263,1013968072
+ Jeff,Strong, Jeff Strong,1742,1023028438
+ Sandeep,Msutta, Sandeep Msutta,1661,1033539275
+ Patrick,Marcus, Patrick Marcus,1710,1053706929
+ Jose,Gude, Jose Gude,261,1063432292
+ Madeline,Borhani, Madeline Borhani,1462,1063440675
+ Revati,Nemani, Revati Nemani,295,1063508604
+ Andrew,Gatien, Andrew Gatien,1509,1063587566
+ Irina,Zigelboym, Irina Zigelboym,1376,1063655736
+ David,Roesel, David Roesel,1746,1073693065
+ Saad,Rahman, Saad Rahman,1410,1124205588
+ Zerin,Rahman, Zerin Rahman,1379,1124205588
+ Mihaela,Olariu, Mihaela Olariu,252,1134297237
+ Nathaniel,Atkin, Nathaniel Atkin,1460,1134358344
+ Irving,Zavala, Irving Zavala,120,1134583396
+ Irving,Zavala, Irving Zavala,1770,1134583396
+ Jen An,Hammon, Jen An Hammon,1672,1144480104
+ Sejal,Raval, Sejal Raval,1658,1144517319
+ Nicole,Byrne, Nicole Byrne,1507,1144529843
+ Emily,Cranston, Emily Cranston,1532,1154617801
+ Tim,Ng, Tim Ng,121,1154718377
+ Tim,Ng, Tim Ng,1774,1154718377
+ Janice,Connolly, Janice Connolly,217,1184708802
+ Yoko,Mashino, Yoko Mashino,284,1184786394
+ Naomi,Diggs, Naomi Diggs,1309,1184870644
+ JiYoung,Nam, JiYoung Nam,1516,1194019372
+ Megan,Flores, Megan Flores,1426,1194040733
+ Joe,Guinto, Joe Guinto,1459,1194181214
+ Vasanthi,Gowri, Vasanthi Gowri,1372,1194762922
+ Jacob,Ortiz, Jacob Ortiz,1480,1215294749
+ George,Haddad, George Haddad,1409,1225191265
+ Michael,Skroch, Michael Skroch,214,1235299678
+ Kevin,Schmidt, Kevin Schmidt,1489,1245557776
+ Rajneet,Lamba, Rajneet Lamba,1334,1255504882
+ Raj,Shah, Raj Shah,1717,1255727244
+ Mauli,Shah, Mauli Shah,1732,1255727244
+ Matt,Tracy, Matt Tracy,266,1265622187
+ Scott,Greenspahn, Scott Greenspahn,1347,1265665293
+ Rich,Kaplan, Rich Kaplan,1673,1275716060
+ Judy,Vu, Judy Vu,1533,1295051647
+ Courtney,Gomez, Courtney Gomez,1706,1295961902
+ Linda,Milhoan, Linda Milhoan,1455,1306036793
+ Kunal,Joshi, Kunal Joshi,1519,1306281837
+ Jiyun,Kim, Jiyun Kim,1589,1326202078
+ Somnit,Lee, Somnit Lee,1382,1326246422
+ Junaid,Usman, Junaid Usman,1294,1336233394
+ Clark,Coler, Clark Coler,245,1346311347
+ Gilbert,Sun, Gilbert Sun,256,1366485955
+ Daman,Chugh, Daman Chugh,1371,1366492944
+ Michelle,Pham, Michelle Pham,1702,1366988560
+ David,Schutte, David Schutte,254,1376606293
+ Dan,Rona-Hartzog, Dan Rona-Hartzog,1760,1376906941
+ Lauren,Pallis, Lauren Pallis,17,1376925727
+ Sarah,Bork, Sarah Bork,244,1396783148
+ Angelina,Zappia, Angelina Zappia,1375,1396856639
+ Erina,Sugai, Erina Sugai,1454,1407118193
+ Melanie,Schaffer, Melanie Schaffer,1439,1417210691
+ Kai,Wilhelm, Kai Wilhelm,1475,1417396573
+ Uma,Mudaliar, Uma Mudaliar,1456,1427282375
+ Monica,Marton, Monica Marton,1366,1437326626
+ Maryna,Haydash, Maryna Haydash,1502,1447703509
+ Katherine,Min, Katherine Min,1374,1477520914
+ Janice,Ekemo, Janice Ekemo,212,1477529394
+ Prasanthi,Ganathi, Prasanthi Ganathi,1292,1487877031
+ Elise,Willis, Elise Willis,1383,1487953683
+ Marian,Pungan, Marian Pungan,1425,1497776686
+ Mary,VanCleave, Mary VanCleave,1378,1508949991
+ Binh,Lieu, Binh Lieu,250,1518072958
+ Simone,Vincent, Simone Vincent,1342,1518102862
+ Preston,Kramer, Preston Kramer,1750,1518313774
+ Chris,Brown, Chris Brown,1707,1518353549
+ Aaron,Shur, Aaron Shur,255,1528140167
+ Kari,Paulson, Kari Paulson,213,1538176706
+ Kenji,Asakura, Kenji Asakura,242,1538179965
+ Shannon,Bryan, Shannon Bryan,258,1548344260
+ Inna,Andrews, Inna Andrews,1441,1548498157
+ Alex,Yu, Alex Yu,1497,1548557838
+ Amy,Liu, Amy Liu,1708,1548654023
+ Tuan,Phan, Tuan Phan,1664,1558382150
+ Ha,Ta, Ha Ta,1395,1568437069
+ Rachel,Thompson, Rachel Thompson,1752,1609955368
+ Susan,Yoo, Susan Yoo,283,1629133434
+ Carrie,Fathke, Carrie Fathke,1306,1629197629
+ Arjun,Singh, Arjun Singh,18,1629455852
+ Edward,Chun, Edward Chun,1506,1639150436
+ Adam,Corson, Adam Corson,268,1639284094
+ Johanna,Hase, Johanna Hase,1735,1639580806
+ Robert,Glazewski, Robert Glazewski,1369,1649218546
+ Robert,Gould, Robert Gould,1370,1649241993
+ Arinder,Tiwana, Arinder Tiwana,1579,1659521136
+ Clara,Peck, Clara Peck,1321,1659563526
+ Tomoharu,Uchiyama, Tomoharu Uchiyama,1337,1659575140
+ Amy,Jang, Amy Jang,1753,1659613149
+ Manu,Yadav, Manu Yadav,1711,1659687689
+ Eric,Tanenbaum, Eric Tanenbaum,1674,1659765634
+ Skand,Bhatt, Skand Bhatt,1419,1669620498
+ Itanna,Murphy, Itanna Murphy,211,1679638670
+ David,Jimenez-Celi, David Jimenez-Celi,1662,1679732879
+ Meagan,Sullivan-Pruyn, Meagan Sullivan-Pruyn,1759,1689090722
+ Richard,Zhao, Richard Zhao,257,1699838532
+ Dave,Ohlson, Dave Ohlson,1764,1700239654
+ Ronald,Lehmann, Ronald Lehmann,222,1710061437
+ Per,Danielsson, Per Danielsson,241,1720162449
+ Ade,Magallanes, Ade Magallanes,16,1720460173
+ Ade,Magallanes, Ade Magallanes,1747,1720460173
+ David,Wilson, David Wilson,1345,1730488073
+ Elise,Rasmussen, Elise Rasmussen,1751,1740642420
+ Oleg,Zbirun, Oleg Zbirun,1457,1760635833
+ Rajnikanth,Narayanan, Rajnikanth Narayanan,1435,1780713032
+ Abigail,Alt, Abigail Alt,1322,1780818443
+ Alice,Ding, Alice Ding,282,1801970520
+ Madiha,Khan, Madiha Khan,1736,1811127053
+ Elizabeth,Ting, Elizabeth Ting,1377,1811932460
+ Josh,Yi, Josh Yi,1380,1821057290
+ Bennett,Burke, Bennett Burke,218,1821171851
+ Josh,Smith, Josh Smith,1667,1821316365
+ Kerry,Smith, Kerry Smith,1660,1821316365
+ Brian,Hough, Brian Hough,247,1831252782
+ Ravneet,Dhaliwal, Ravneet Dhaliwal,122,1841647443
+ Ravneet,Dhaliwal, Ravneet Dhaliwal,1773,1841647443
+ Jesse,Matthews, Jesse Matthews,294,1851566822
+ Anna,Handa, Anna Handa,1458,1861782559
+ Tennie (UW IM),Renkens, Tennie (UW IM) Renkens,65,1861854721
+ Tennie,Renkens, Tennie Renkens,1748,1861854721
+ Letizia,Alto, Letizia Alto,1305,1871742312
+ Troy,Martin, Troy Martin,1737,1881679397
+ Vitali,Mironov, Vitali Mironov,262,1881756039
+ Ethan,Babcock, Ethan Babcock,1090,1881841054
+ Tavinder,Basra, Tavinder Basra,1508,1881865954
+ Karen,Basra, Karen Basra,1501,1881865954
+ Kemi,Oluwole, Kemi Oluwole,1757,1891007514
+ Amy,Hong, Amy Hong,1373,1902017148
+ Sunita,Pillai, Sunita Pillai,1404,1902096514
+ Miwa,Vernon, Miwa Vernon,1510,1912218751
+ Sandeep,Sachdeva, Sandeep Sachdeva,264,1922161892
+ Lesley,Bobek, Lesley Bobek,1399,1922202787
+ Zana,Desgranges, Zana Desgranges,259,1922205491
+ Shivani,Kalu, Shivani Kalu,1550,1922318757
+ Meeta,Sabnis, Meeta Sabnis,279,1952479859
+ Anna,Metcalfe, Anna Metcalfe,1420,1962719872
+ Mark,Kohmetscher, Mark Kohmetscher,249,1972666824
+ Rupesh,Kumar, Rupesh Kumar,1677,1972732766
+ Brett,Hiroto, Brett Hiroto,1716,1972915866
+ Kathryn,Bolles, Kathryn Bolles,1749,1982099321
+ Moin,Shaikh, Moin Shaikh,265,1982609293
+ Danh,Ngo, Danh Ngo,1335,1982719456
+ Sikirat,Tinubu-Karch, Sikirat Tinubu-Karch,1676,1992733638
+ Wendy (UW IM),Hansen, Wendy (UW IM) Hansen,133,x
+ Zena,Falk, Zena Falk,1763,x
+ Daniel (Dental),DeCillis, Daniel (Dental) DeCillis,66,x
+ Samuel (Dental),Elcik, Samuel (Dental) Elcik,138,x
+ Tania (Dental),Faruqi, Tania (Dental) Faruqi,140,x
+ Chris,Hearne, Chris Hearne,1779,x
+ Ryan (UW IM),Johnson, Ryan (UW IM) Johnson,132,x
+ Gurpreet (Dental),Kaur, Gurpreet (Dental) Kaur,139,x
+ Sarah (UW IM),Kirsch, Sarah (UW IM) Kirsch,85,x
+ Arielle (UW IM),Kloss, Arielle (UW IM) Kloss,141,x
+ Jeff (UW IM),Krimmel-Morrison, Jeff (UW IM) Krimmel-Morrison,92,x
+ Karolina (UW IM),Kucybala, Karolina (UW IM) Kucybala,64,x
+ Sierra (UW IM),McCreery, Sierra (UW IM) McCreery,55,x
+ Sophie (UW IM),Miller, Sophie (UW IM) Miller,103,x
+ Jude,Monte, Jude Monte,1778,x
+ Elijah (UW IM),Mun, Elijah (UW IM) Mun,86,x
+ Nadareh (Dental),Naseri, Nadareh (Dental) Naseri,69,x
+ Praise,Opara, Praise Opara,1520,x
+NA,Open,NA Open,1543,x
+ Dylan (UW IM),O'Shea, Dylan (UW IM) O'Shea,136,x
+ Deedee,Paster, Deedee Paster,1776,1962708800
+ Caroline (Dental),Rog, Caroline (Dental) Rog,131,x
+ Peter (UW IM),Schoonmaker, Peter (UW IM) Schoonmaker,100,x
+ Kyle (UW IM),Sears, Kyle (UW IM) Sears,91,x
+ Adam (Dental),Staffen, Adam (Dental) Staffen,70,x
+ Kevin (UW IM),Stephenson, Kevin (UW IM) Stephenson,104,x
+ Allen (UW IM),Sy, Allen (UW IM) Sy,135,x
+ Morgan (Dental),Thorne, Morgan (Dental) Thorne,67,x
+ Gabriella (UW IM),Torti, Gabriella (UW IM) Torti,52,x
+ Tiffany (UW IM),Yuh, Tiffany (UW IM) Yuh,94,x
+ Sumra (Dental),Zaidi, Sumra (Dental) Zaidi,137,x
+ Angela (UW IM),Zhou, Angela (UW IM) Zhou,84,x
+ Carolyn,Anderson, Carolyn Anderson,1762,x
+ Sarah (UW IM),Bliss, Sarah (UW IM) Bliss,101,x
+ Bryn (CH FM),Chowchuvech, Bryn (CH FM) Chowchuvech,87,x
+ Ryan (UW IM),Clodfelter, Ryan (UW IM) Clodfelter,134,x
+ Andrea,Cowan, Andrea Cowan,1765,x
+ Jonas (Dental),Dale , Jonas (Dental) Dale ,68,x
